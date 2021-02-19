@@ -9,6 +9,6 @@ In order to weather-service we need to follow below steps
 2. clone project from git or download the code.
 3. Navigate to weather-service and run mvn clean install
 4. to run the spring boot application navigate to target/ folder and use below command java -jar weather-service-0.0.1-SNAPSHOT.jar
-5. employee-portal-service will be running on port no 8082
+5. weather-service will be running on port no 9090
 6. open http://localhost:9090/swagger-ui.html.
 7. click on Weather Service APIS link and verify the weather temperature api.
